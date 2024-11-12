@@ -1,0 +1,49 @@
+body {
+  background-color: rgb(230, 239, 246);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.main {
+  flex-direction: row;
+}
+.div2 {
+  display: flex;
+  flex-direction: row;
+  color:white;
+}
+.community {
+  text-decoration: solid;
+  color: rgb(142, 213, 210);
+  height: 50%;
+  width: 100%;
+}
+.hassle {
+  color: rgb(212, 232, 109);
+}
+.Monthly {
+  background-color: rgb(43, 179, 177);
+  height: 15rem;
+  width: 50%;
+  padding: 20px;
+}
+.Why {
+  background-color: rgb(74, 190, 189);
+  height: 15em;
+  width: 50%;
+padding: 20px;
+}
+.firstdiv {
+  background-color: white;
+  padding:15px;
+}
+.Btn {
+  background-color: rgb(191, 223, 50);
+  padding:10px;
+  width:12rem;
+  color:white;
+}
+.p2{
+    color:rgb(168, 167, 175);
+}
